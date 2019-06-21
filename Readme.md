@@ -5,6 +5,9 @@
 * [WebForm1.aspx.cs](./CS/Dashboard_ConfigureDataConnection_Web/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/Dashboard_ConfigureDataConnection_Web/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to customize connection settings before ASPxDashboardViewer connects to a database
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t198248)**
+<!-- run online end -->
 
 
 <p><strong>Note:</strong> <em>Starting with v17.1, we recommend using the <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16976.aspx">ASPxDashboard control</a> or a corresponding <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16977.aspx">ASP.NET MVC extension</a> to display dashboards within web applications.</em><br><br>This example demonstrates how to customize connection settings before <a href="https://documentation.devexpress.com/#Dashboard/clsDevExpressDashboardWebASPxDashboardViewertopic">ASPxDashboardViewer</a> connects to a database using the <a href="http://documentation.devexpress.com/#Dashboard/DevExpressDashboardWebASPxDashboardViewer_ConfigureDataConnectiontopic">ConfigureDataConnection</a> event.</p>
