@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to customize connection settings before ASPxDashboardViewer connects to a database
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t198248)**
+**[[Run Online]](https://codecentral.devexpress.com/t198248/)**
 <!-- run online end -->
 
 
